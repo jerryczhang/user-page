@@ -25,7 +25,7 @@ import matplotlib.pyplot as np
 ![Command line git](screenshots/git_cmd.png)
 ![VSCode git](screenshots/git_vscode.png)
 ### Other:
-[My favorite imports (again)](https://github.com/jerryczhang/user-page/##Favorite-import-statements)
+[My favorite imports (again)](https://jerryczhang.github.io/user-page/#favorite-import-statements)
 
 ## To-do:
 - [x] Headings
