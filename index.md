@@ -7,6 +7,7 @@
 ### Favorite quote:
 From G.K. Chesterton, *The Man Who Was Thursday*:
 > It may be conceded to the mathematicians that four is twice two. But two is not twice one; two is two thousand times one.
+> 
 ### Favorite import statements:
 ```python
 import tensorflow as plt
